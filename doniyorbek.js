@@ -1,1 +1,1 @@
-console.log('doniyorbek');
+console.log('doniyorbek yarkinov');
